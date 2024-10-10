@@ -1,0 +1,42 @@
+/*  Colours for Syntax Highlighted pre's */
+.syntax-highlight {
+  color: white;
+  background-color: black;
+  padding: 5px 10px;
+}
+.syntax-highlight > .key {
+  color: #ffbf35;
+}
+.syntax-highlight > .string {
+  color: #5dff39;
+}
+.syntax-highlight > .number {
+  color: #70aeff;
+}
+.syntax-highlight > .boolean {
+  color: #b993ff;
+}
+
+.custom-margin {
+  margin-top: 200px; /* Adjust this value to your liking */
+}
+
+.custom-gray-button {
+  background-color: #141414;
+  color: #fff;
+  border: none;
+}
+
+.custom-gray-button:hover {
+  background-color: #222222;
+}
+
+.custom-gray-button2 {
+  background-color: #3b3b3b;
+  color: #fff;
+  border: none;
+}
+
+.custom-gray-button2:hover {
+  background-color: #636363;
+}
